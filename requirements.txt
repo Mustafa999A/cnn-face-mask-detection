@@ -4,3 +4,4 @@ numpy
 pillow
 requests
 matplotlib
+h5py
